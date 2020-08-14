@@ -11,5 +11,5 @@ go to your terminal
 ```
 cd c:/users/username/locationofbot
 
-npm install discord.js
+npm i
 ```
